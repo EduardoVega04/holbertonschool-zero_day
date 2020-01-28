@@ -1,1 +1,0 @@
-<em>Second part of project 0<em>
