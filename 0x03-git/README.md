@@ -1,1 +1,1 @@
-<strong>The Git part<strong>
+<strong>The Git part!<strong>
